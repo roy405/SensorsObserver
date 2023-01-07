@@ -7,10 +7,10 @@ The intention of the application was to be a prototype to gather the data output
 
 # Sensors targetted:
 
-Accelerometer
-Gyroscope
-Light Sensor
-Proximity
+- Accelerometer
+- Gyroscope
+- Light Sensor
+- Proximity
 
 # How to Run
 ## Run through Android Studio

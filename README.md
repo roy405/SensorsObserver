@@ -20,7 +20,7 @@ The intention of the application was to be a prototype to gather the data output
    - **This step might require the switching on of Technology Vertualization.**
 - Run application.
 
-## Run on physical androdi device
+## Run on physical android device
 
 - Create Signed APK through Android Studio
   - Go to Build > Generate Signed APK > Click _Create New_ > Fill in form (Create a key to any Directory) > Next and Release

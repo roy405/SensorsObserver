@@ -13,6 +13,17 @@ Light Sensor
 Proximity
 
 # How to Run
+## Run through Android Studio
 
-In order to run the application, android studio is required.
+- Install Android Studio
+- Install a compatible AVD (Android Virtual Device) 
+   - **This step might require the switching on of Technology Vertualization.**
+- Run application.
 
+## Run on physical androdi device
+
+- Create Signed APK through Android Studio
+  - Go to Build > Generate Signed APK > Click _Create New_ > Fill in form (Create a key to any Directory) > Next and Release
+- Transfer the apk to phone memory and install 
+- Run application
+      
